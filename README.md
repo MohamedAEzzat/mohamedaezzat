@@ -1,7 +1,5 @@
 <!-- Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=750&center=true&vCenter=true&multiline=true&lines=Cybersecurity+Engineer;Threat+Researcher;Red+Teamer;Exploit+Developer;Malware+Analyst;Let’s+Break+Stuff+Securely+%F0%9F%92%A5" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=600&lines=Cybersecurity+Engineer;Threat+Researcher;Red+Teamer;Malware+Analyst;Exploit+Developer;Let%E2%80%99s+Break+Stuff+Securely!+%F0%9F%92%A5" />
 
 
 <h1 align="center">👋 Hi, I’m Mohamed Ezzat</h1>
