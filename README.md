@@ -53,16 +53,6 @@ _Mar 2023 – Present_
 
 ---
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedezzat&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedezzat&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 🌍 Connect with Me
 
 <p align="left">
