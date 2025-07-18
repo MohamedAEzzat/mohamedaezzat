@@ -1,6 +1,3 @@
-<!-- Animated Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=600&lines=Cybersecurity+Engineer;Threat+Researcher;Red+Teamer;Malware+Analyst;Exploit+Developer;Let%E2%80%99s+Break+Stuff+Securely!+%F0%9F%92%A5" />
-
 
 <h1 align="center">👋 Hi, I’m Mohamed Ezzat</h1>
 <h3 align="center">Cybersecurity Engineer | Offensive Security Specialist | Detection Rules Developer</h3>
