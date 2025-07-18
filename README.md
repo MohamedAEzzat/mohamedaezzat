@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I’m Mohamed Ezzat</h1>
-<h3 align="center">Cybersecurity Engineer | Offensive Security Specialist | Detection Rules Developer</h3>
+<h3 align="center">🛡️ Cybersecurity Engineer | 🔍 Threat Researcher | ⚔️ Red Teamer</h3>
 
 ---
 
